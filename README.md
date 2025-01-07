@@ -4,7 +4,11 @@ Apollo automatic tool
 ## Description  
   
 This project is an automated clock-in and clock-out script based on Playwright, designed to simplify the daily process of clocking in and out for work. The script automatically logs into the specified clocking website and performs the clock-in or clock-out operation at a randomly chosen time within the specified time range. The script also intelligently skips clocking on weekends and public holidays.  
-  
+
+## Prerequisites  
+- pip install playwright  
+- python -m playwright install  
+
 ### Features  
   
 - **Automated Login**: Users only need to configure the login information once, and the script will handle the login process automatically.  
