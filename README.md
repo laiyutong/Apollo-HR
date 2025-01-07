@@ -15,6 +15,10 @@ This project is an automated clock-in and clock-out script based on Playwright, 
 ├── clock_in.py  
 └── clock_out.py  
 
+- common.py: Contains shared functions and settings, such as public holiday checks and login functions.
+- clock_in.py: Script for clocking in.
+- clock_out.py: Script for clocking out.
+
 ### Features  
   
 - **Automated Login**: Users only need to configure the login information once, and the script will handle the login process automatically.  
