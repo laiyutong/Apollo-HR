@@ -1,5 +1,4 @@
-# Apollo
-Apollo automatic tool
+# Apollo HR automatic tool
 
 ## Description  
   
