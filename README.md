@@ -7,7 +7,13 @@ This project is an automated clock-in and clock-out script based on Playwright, 
 
 ## Prerequisites  
 - pip install playwright  
-- python -m playwright install  
+- python -m playwright install
+
+## Directory Structure
+.  
+├── common.py  
+├── clock_in.py  
+└── clock_out.py  
 
 ### Features  
   
